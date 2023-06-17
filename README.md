@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-This GitHub project aims to develop a machine learning model for predicting the quality of wine using Python. The project is a collaborative effort between two team members, Adham and Ziad, who have worked together to create an accurate and reliable wine quality prediction system.
+This GitHub project aims to develop a machine learning model for predicting the quality of wine using Python. The project is a collaborative effort between two team members, Adham, Ziad and me, who have worked together to create an accurate and reliable wine quality prediction system.
 
 ## Table of Contents
 
