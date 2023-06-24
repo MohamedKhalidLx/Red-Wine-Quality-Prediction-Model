@@ -35,11 +35,13 @@ For more information about the dataset, please refer to the following publicatio
 The following dependencies are required to run the project:
 
 - Python 3.7 or higher
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- scikit-learn
+- termcolor
 
 You can install these dependencies by running the following command:
 
