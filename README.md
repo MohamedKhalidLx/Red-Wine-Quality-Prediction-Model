@@ -14,6 +14,7 @@ This GitHub project aims to develop a machine learning model for predicting the 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [License](#license)
 
 ## Introduction
@@ -92,6 +93,11 @@ For more detailed information about the results and analysis, please refer to th
 We welcome
 
  contributions to improve this project. If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request. Your contributions will be acknowledged and greatly appreciated.
+
+## Contact
+
+Name: Mohamed Khaled Mahmoud Sayed  
+E-mail: Mo7ammad244@gmail.com
 
 ## License
 
