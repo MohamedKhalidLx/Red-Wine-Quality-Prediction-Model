@@ -101,4 +101,4 @@ E-mail: Mo7ammad244@gmail.com
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
+This project is licensed under the [LICENSE](LICENSE). Feel free to use and modify the code as per your requirements.
